@@ -23,3 +23,7 @@ Two conventions on calculating helicity angles give diffent result for four-body
 ### 3. Circular Dalitz plot
 
 Find a conformal tranformation of a Dalitz plot to a unit circle.
+
+### 4. Analytic continuation of 3body equations
+
+Fig. 14 in the [a1(1260) paper](https://inspirehep.net/literature/1696497) presents the problem. There are two options for analytic continuation and none seems natural.
