@@ -1,6 +1,6 @@
 # HadronRiddles
 
-I think repository I collect problems and riddles related to particle physics / scattering theory
+I this repository I collect problems and riddles related to particle physics / scattering theory
 They are unsolved, but likely possible to solve.
 
 The AI are getting more advanced,
