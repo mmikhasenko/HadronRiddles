@@ -5,6 +5,7 @@ Analytic expression for Chew-Mandestam functions with Blatt-Weisskopf form-facto
 **keywords**: dispesion integrals.
 
 Using dispersion relation we compute an analytic function from a known imaginary part, $i \rho F_L^2$ as follows,
+
 $$
 I_L(s) = \frac{s}{\pi}\int_{s_0}^{\infty} \frac{\rho(s')}{s'(s'-s-i0)} F_L^2((pR)^2)\,\mathrm{d} s'
 $$
