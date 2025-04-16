@@ -20,8 +20,8 @@ where
 Example of $F$ functions:
 ```math
 \begin{align}
-F_0 &= 1\,,\\
-F_1 &= \frac{z^2}{1+z^2}\,,\\
-F_2 &= \frac{z^4}{9+3z^2+z^4}\,.
+F_0^2(z) &= 1\,,\\
+F_1^2(z) &= \frac{z}{1+z}\,,\\
+F_2^2(z) &= \frac{z^2}{9+3z+z^2}\,.
 \end{align}
 ```
